@@ -1,0 +1,31 @@
+2025-04-17 19:19:24,498 flowps       DEBUG    m_span: 7
+2025-04-17 19:19:24,498 flowps       DEBUG    k_span: 3
+2025-04-17 19:19:24,498 flowps       DEBUG    Calculate predictions for different m and k
+2025-04-17 19:19:24,499 flowps       DEBUG    Number of surrounding points, m: 0
+2025-04-17 19:19:24,499 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:19:29,983 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:19:35,906 flowps       DEBUG    Number of neighbours, k: 34
+2025-04-17 19:19:41,421 flowps       DEBUG    Number of surrounding points, m: 1
+2025-04-17 19:19:41,422 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:19:47,078 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:19:52,513 flowps       DEBUG    Number of neighbours, k: 34
+2025-04-17 19:19:55,661 flowps       DEBUG    Number of surrounding points, m: 2
+2025-04-17 19:19:55,661 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:19:58,785 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:20:01,549 flowps       DEBUG    Number of neighbours, k: 34
+2025-04-17 19:20:04,714 flowps       DEBUG    Number of surrounding points, m: 3
+2025-04-17 19:20:04,715 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:20:08,555 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:20:11,894 flowps       DEBUG    Number of neighbours, k: 34
+2025-04-17 19:20:15,062 flowps       DEBUG    Number of surrounding points, m: 4
+2025-04-17 19:20:15,063 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:20:18,726 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:20:22,492 flowps       DEBUG    Number of neighbours, k: 34
+2025-04-17 19:20:25,747 flowps       DEBUG    Number of surrounding points, m: 5
+2025-04-17 19:20:25,747 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:20:28,944 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:20:32,708 flowps       DEBUG    Number of neighbours, k: 34
+2025-04-17 19:20:36,050 flowps       DEBUG    Number of surrounding points, m: 6
+2025-04-17 19:20:36,050 flowps       DEBUG    Number of neighbours, k: 32
+2025-04-17 19:20:39,121 flowps       DEBUG    Number of neighbours, k: 33
+2025-04-17 19:20:42,376 flowps       DEBUG    Number of neighbours, k: 34
